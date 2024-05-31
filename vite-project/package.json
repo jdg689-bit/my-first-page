@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://{jdg689-bit}.github.io/{my-first-page}",
+  "homepage": "https://{jdg689-bit}.github.io/{my-first-page}",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
